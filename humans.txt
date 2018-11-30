@@ -1,3 +1,5 @@
+Hello! I'm Prachi Pendse and this github page is my corner of the internet.
+
 /* Foundation was made by ZURB, an interaction design and design strategy firm in Campbell, CA */
 /* zurb.com */
 /* humanstxt.org */
