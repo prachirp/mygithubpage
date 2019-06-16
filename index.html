@@ -35,8 +35,6 @@
                     <!-- Menu -->
                     <nav class="classy-navbar justify-content-between" id="vcardNav">
 
-                        <a href="index.html" class="nav-brand"><img src="img/core-img/logo.png" alt=""></a>
-
                         <!-- Navbar Toggler -->
                         <div class="classy-navbar-toggler">
                             <span class="navbarToggler"><span></span><span></span><span></span></span>
@@ -54,7 +52,8 @@
                             <div class="classynav">
                                 <ul id="vcardMenu">
                                     <li class="active"><a href="#about">About</a></li>
-                                    <li><a href="#portfolio">Portfolio</a></li>
+                                    <li><a href="#experience">Experience</a></li>
+                                    <li><a href="#projects">Projects</a></li>
                                     <li><a href="#contact">Contact</a></li>
                                 </ul>
 
@@ -99,21 +98,71 @@
     </div>
     <!-- ##### Hero Area End ##### -->
 
-    <!-- ##### Portfolio Area Start ##### -->
-    <section class="portfolio-area section-padding-100 clearfix" id="portfolio">
+    <!-- ##### Experience Area Start ##### -->
+    <section class="experience-area section-padding-100 clearfix" id="experience">
         <div class="container">
             <div class="row">
                 <!-- Section Heading -->
                 <div class="col-12">
                     <div class="section-heading text-center mb-30 wow fadeInUp" data-wow-delay="300ms">
                         <div class="line mx-auto"></div>
-                        <h2>Portfolio</h2>
+                        <h2>Experience</h2>
                     </div>
                 </div>
 
                 <div class="col-12">
                     <div class="vcard-projects-menu wow fadeInUp" data-wow-delay="500ms">
-                        <div class="text-center portfolio-menu">
+                        <div class="text-center experience-menu">
+                            <button class="btn active" data-filter="*">Work Experience</button>
+                            <button class="btn" data-filter=".web">Education</button>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+
+        <div class="container-fluid">
+            <div class="row vcard-experience">
+
+                <!-- Single gallery Item -->
+                <div class="col-12 col-sm-6 col-lg-3 single-experience-area web brand wow fadeInUp" data-wow-delay="100ms">
+                    <class="screenshot"><img src="img/bg-img/LINotif.png" alt="Backend Engineer on Linkedin Inapp Notifications"></a>
+                    <!-- Content -->
+                    <div class="experience-content">
+                        <class="title"><h5>Linkedin Notifications</h5></a>
+                        <a href="#experience" class="category">Work Experience</a>
+                    </div>
+                </div>
+                <!-- Single gallery Item -->
+                <div class="col-12 col-sm-6 col-lg-3 single-experience-area web brand wow fadeInUp" data-wow-delay="100ms">
+                    <class="screenshot"><img src="img/bg-img/YahooGemini.png" alt="Full Stack Engineer on Yahoo's Gemini DSP"></a>
+                    <!-- Content -->
+                    <div class="experience-content">
+                        <class="title"><h5>Yahoo Gemini Budget</h5></a>
+                        <a href="#experience" class="category">Work Experience</a>
+                    </div>
+                </div>
+
+            </div>
+        </div>
+    </section>
+    <!-- ##### Experience Area End ##### -->
+
+    <!-- ##### Projects Area Start ##### -->
+    <section class="projects-area section-padding-100 clearfix" id="projects">
+        <div class="container">
+            <div class="row">
+                <!-- Section Heading -->
+                <div class="col-12">
+                    <div class="section-heading text-center mb-30 wow fadeInUp" data-wow-delay="300ms">
+                        <div class="line mx-auto"></div>
+                        <h2>Projects</h2>
+                    </div>
+                </div>
+
+                <div class="col-12">
+                    <div class="vcard-projects-menu wow fadeInUp" data-wow-delay="500ms">
+                        <div class="text-center projects-menu">
                             <button class="btn active" data-filter="*">Games</button>
                             <button class="btn" data-filter=".web">Other</button>
                         </div>
@@ -123,22 +172,22 @@
         </div>
 
         <div class="container-fluid">
-            <div class="row vcard-portfolio">
+            <div class="row vcard-projects">
 
                 <!-- Single gallery Item -->
-                <div class="col-12 col-sm-6 col-lg-3 single-portfolio-area web brand wow fadeInUp" data-wow-delay="100ms">
+                <div class="col-12 col-sm-6 col-lg-3 single-projects-area web brand wow fadeInUp" data-wow-delay="100ms">
                     <a href="RockPaperScissors.html" class="screenshot"><img src="img/bg-img/p1.png" alt="Rock Paper Scissors Screenshot"></a>
                     <!-- Content -->
-                    <div class="portfolio-content">
+                    <div class="projects-content">
                         <a href="RockPaperScissors.html" class="title"><h5>Rock Paper Scissors</h5></a>
-                        <a href="#portfolio" class="category">Game</a>
+                        <a href="#projects" class="category">Game</a>
                     </div>
                 </div>
 
             </div>
         </div>
     </section>
-    <!-- ##### Portfolio Area End ##### -->
+    <!-- ##### Projects Area End ##### -->
 
     <!-- ##### Contact Area Start ##### -->
     <div class="contact-area" id="contact">
@@ -155,12 +204,14 @@
                 <div class="col-12 d-flex flex-wrap align-items-center justify-content-between">
                     <!-- Single Contact Information -->
                     <div class="single-contact-info d-flex align-items-center">
-                        <div class="contact-icon">
-                            <img src="img/core-img/envelope.png" alt="">
+                        <div class="contact-context">
+                            <p>I'm a software engineer with 3.5 years of experience working on scalable distributed systems at Linkedin and Yahoo. I'm currently looking for a job as a backend engineer in San Francisco. Feel free to reach out if you feel there is a fit!</p>
                         </div>
-                        <div class="contact-text">
-                            <h6>Email:</h6>
-                            <p>prachirp@gmail.com</p>
+                    </div>
+                    <!-- Single Contact Information -->
+                    <div class="single-contact-info d-flex align-items-center">
+                        <div class="contact-icon">
+                            <a href="mailto:prachirp@gmail.com" class="email-image"><img src="img/core-img/envelope.png" alt="Mail Image">
                         </div>
                     </div>
                 </div>
