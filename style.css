@@ -177,7 +177,7 @@ img {
     height: 30px;
     margin-bottom: 15px;
     display: block;
-    background-color: #ffb016; }
+    background-color: #B32A44; }
   .section-heading h2 {
     margin-bottom: 0;
     font-size: 48px;
@@ -196,7 +196,7 @@ img {
 
 /* Preloader */
 #preloader {
-  background-color: #ffb016;
+  background-color: #B32A44;
   width: 100%;
   height: 100%;
   position: fixed;
@@ -290,7 +290,7 @@ img {
   padding-right: 0;
   width: 30px;
   height: 30px;
-  background-color: #ffb016;
+  background-color: #B32A44;
   line-height: 30px;
   text-align: center;
   position: absolute;
@@ -305,7 +305,7 @@ textarea:focus {
 
 /* ScrollUp */
 #scrollUp {
-  background-color: #ffb016;
+  background-color: #B32A44;
   border-radius: 0;
   bottom: 60px;
   box-shadow: 0 2px 6px 0 rgba(0, 0, 0, 0.3);
@@ -340,7 +340,7 @@ textarea:focus {
   -webkit-transition-duration: 500ms;
   transition-duration: 500ms;
   text-transform: capitalize;
-  background-color: #ffb016; }
+  background-color: #B32A44; }
   .vcard-btn.active, .vcard-btn:hover, .vcard-btn:focus {
     font-size: 14px;
     font-weight: 600;
@@ -380,7 +380,7 @@ textarea:focus {
         font-weight: 500; }
         .header-area .vcard-main-menu .classy-navbar .classynav ul li a:hover, .header-area .vcard-main-menu .classy-navbar .classynav ul li a:focus {
           font-weight: 500;
-          color: #ffb016; }
+          color: #B32A44; }
       .header-area .vcard-main-menu .classy-navbar .classynav > ul > li > a {
         text-transform: capitalize;
         padding: 10px 15px;
@@ -390,7 +390,7 @@ textarea:focus {
         font-weight: 500;
         font-size: 16px; }
         .header-area .vcard-main-menu .classy-navbar .classynav > ul > li > a:hover, .header-area .vcard-main-menu .classy-navbar .classynav > ul > li > a:focus {
-          color: #ffb016; }
+          color: #B32A44; }
       .header-area .vcard-main-menu .classy-navbar .classynav > ul > li.active > a {
         position: relative;
         z-index: 1;
@@ -398,7 +398,7 @@ textarea:focus {
         .header-area .vcard-main-menu .classy-navbar .classynav > ul > li.active > a::before {
           -webkit-transition-duration: 250ms;
           transition-duration: 250ms;
-          background-color: #ffb016;
+          background-color: #B32A44;
           width: 100%;
           height: 9px;
           position: absolute;
@@ -453,7 +453,7 @@ textarea:focus {
       font-weight: 600; }
     .hero-area .hero-content h2 {
       font-size: 92px;
-      color: #ffb016;
+      color: #B32A44;
       margin-bottom: -10px;
       font-weight: 600;
       line-height: 1.1;
@@ -494,13 +494,13 @@ textarea:focus {
       .hero-area .hero-content .contact-info a:last-child {
         margin-bottom: 0; }
       .hero-area .hero-content .contact-info a:hover, .hero-area .hero-content .contact-info a:focus {
-        color: #ffb016; }
+        color: #B32A44; }
     .hero-area .hero-content .social-info a {
       display: inline-block;
       padding-right: 20px;
       font-size: 14px; }
       .hero-area .hero-content .social-info a:hover, .hero-area .hero-content .social-info a:focus {
-        color: #ffb016; }
+        color: #B32A44; }
   .hero-area.horizontal {
     position: relative;
     z-index: 10;
@@ -520,9 +520,9 @@ textarea:focus {
     .hero-area.horizontal .contact-info a {
       color: #828282; }
       .hero-area.horizontal .contact-info a:hover, .hero-area.horizontal .contact-info a:focus {
-        color: #ffb016; }
+        color: #B32A44; }
     .hero-area.horizontal .social-info a {
-      color: #ffb016; }
+      color: #B32A44; }
       .hero-area.horizontal .social-info a:hover, .hero-area.horizontal .social-info a:focus {
         color: #fff; }
 
@@ -582,7 +582,7 @@ textarea:focus {
 .services-area {
   position: relative;
   z-index: 1;
-  background-color: #ffb016; }
+  background-color: #B32A44; }
 
 .single-service-area {
   position: relative;
@@ -633,7 +633,7 @@ textarea:focus {
     .vcard-projects-menu .portfolio-menu button.active::after {
       width: 100%;
       height: 9px;
-      background-color: #ffb016;
+      background-color: #B32A44;
       position: absolute;
       bottom: 0;
       left: 0;
@@ -674,14 +674,14 @@ textarea:focus {
       .single-portfolio-area .portfolio-content .vcard-img-zoom a {
         text-align: center;
         font-size: 24px;
-        color: #ffb016;
+        color: #B32A44;
         display: block;
         -webkit-transition-duration: 500ms;
         transition-duration: 500ms; }
         .single-portfolio-area .portfolio-content .vcard-img-zoom a:hover {
           color: #252525; }
   .single-portfolio-area:hover .portfolio-content h5 {
-    color: #ffb016; }
+    color: #B32A44; }
   .single-portfolio-area:hover .portfolio-content .vcard-img-zoom {
     right: 0; }
 
@@ -691,7 +691,7 @@ textarea:focus {
   z-index: 1;
   margin-left: 40px;
   margin-right: 40px;
-  background-color: #ffb016;
+  background-color: #B32A44;
   padding-left: 5%;
   padding-right: 5%; }
   @media only screen and (min-width: 992px) and (max-width: 1199px) {
@@ -819,13 +819,13 @@ textarea:focus {
       opacity: 1;
       color: #252525; }
       .testimonial-slides .center .single-testimonial .testimonial-author-info h6 span {
-        color: #ffb016;
+        color: #B32A44;
         opacity: 1; }
   .testimonial-slides .owl-prev,
   .testimonial-slides .owl-next {
     width: 50px;
     height: 50px;
-    background-color: #ffb016;
+    background-color: #B32A44;
     border-radius: 50%;
     text-align: center;
     line-height: 50px;
@@ -869,7 +869,7 @@ textarea:focus {
       color: #828282;
       font-size: 12px; }
       .footer-area p a:hover, .footer-area p a:focus {
-        color: #ffb016; }
+        color: #B32A44; }
 
 /* :: 13.0 Contact Area */
 .contact-area {
@@ -908,7 +908,7 @@ textarea:focus {
   transition-duration: 500ms; }
   .contact-form-area .form-control:focus {
     box-shadow: none;
-    border-bottom: 3px solid #ffb016; }
+    border-bottom: 3px solid #B32A44; }
 .contact-form-area textarea.form-control {
   height: 200px;
   padding: 15px 20px;
@@ -920,7 +920,7 @@ textarea:focus {
   position: relative;
   z-index: 1;
   padding-top: 50px;
-  background-color: #ffb016;
+  background-color: #B32A44;
   margin-left: 40px;
   margin-right: 40px;
   margin-top: 50px;
@@ -988,9 +988,9 @@ textarea:focus {
         font-weight: 600;
         font-size: 12px; }
     .view-versions .single-version-area:hover, .view-versions .single-version-area:focus {
-      border-color: #ffb016; }
+      border-color: #B32A44; }
       .view-versions .single-version-area:hover .version-info h4, .view-versions .single-version-area:focus .version-info h4 {
-        color: #ffb016; }
+        color: #B32A44; }
 
 /* :: 16.0 Horizontal Version CSS */
 .vcard-main-wrapper {
@@ -1023,7 +1023,7 @@ textarea:focus {
       z-index: 100;
       width: 200px;
       height: calc(100% - 120px);
-      background-color: #ffb016;
+      background-color: #B32A44;
       top: 60px;
       left: 60px; }
       @media only screen and (min-width: 768px) and (max-width: 991px) {
@@ -1111,7 +1111,7 @@ textarea:focus {
             top: 0;
             -webkit-transform: translateY(0%);
             transform: translateY(0%);
-            background-color: #ffb016;
+            background-color: #B32A44;
             padding: 30px;
             z-index: 3000; }
             .vcard-main-wrapper .vcard-content-wrapper .header_area .vcard-nav.on {
@@ -1129,7 +1129,7 @@ textarea:focus {
             top: 0;
             -webkit-transform: translateY(0%);
             transform: translateY(0%);
-            background-color: #ffb016;
+            background-color: #B32A44;
             padding: 30px; }
             .vcard-main-wrapper .vcard-content-wrapper .header_area .vcard-nav.on {
               left: 0; } }
@@ -1288,7 +1288,7 @@ textarea:focus {
       width: 14px;
       height: 14px;
       border-radius: 50%;
-      border: 2px solid #ffb016;
+      border: 2px solid #B32A44;
       content: '';
       top: 0;
       right: -107px;
@@ -1316,10 +1316,10 @@ textarea:focus {
             right: auto;
             left: -37px; } }
     .work-experience-timeline-wrapper .single-experience-timeline.active::after {
-      background-color: #ffb016; }
+      background-color: #B32A44; }
     .work-experience-timeline-wrapper .single-experience-timeline h5 {
       font-size: 18px;
-      color: #ffb016;
+      color: #B32A44;
       margin-bottom: 4px; }
       @media only screen and (max-width: 767px) {
         .work-experience-timeline-wrapper .single-experience-timeline h5 {
@@ -1390,7 +1390,7 @@ textarea:focus {
       width: 14px;
       height: 14px;
       border-radius: 50%;
-      border: 2px solid #ffb016;
+      border: 2px solid #B32A44;
       content: '';
       top: 0;
       right: -107px;
@@ -1418,10 +1418,10 @@ textarea:focus {
             right: auto;
             left: -37px; } }
     .education-timeline-wrapper .single-education-timeline.active::after {
-      background-color: #ffb016; }
+      background-color: #B32A44; }
     .education-timeline-wrapper .single-education-timeline h5 {
       font-size: 18px;
-      color: #ffb016;
+      color: #B32A44;
       margin-bottom: 4px; }
       @media only screen and (max-width: 767px) {
         .education-timeline-wrapper .single-education-timeline h5 {

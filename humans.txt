@@ -1,4 +1,4 @@
-Hello! I'm Prachi Pendse and this github page is my corner of the internet.
+Hello! I'm Prachi Pendse. I'm a software engineer with 3.5 years of experience working on scalable distributed systems at Linkedin and Yahoo. I'm currently looking for a job as a data infrastructure engineer in San Francisco. This github page is my corner of the internet.
 
 /* Foundation was made by ZURB, an interaction design and design strategy firm in Campbell, CA */
 /* zurb.com */
